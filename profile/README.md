@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IT04DataCloud/.github/main/profile/assets/IT04DataCloud-dataai-banner.svg" alt="Glintt Next - Data and AI" width="620" />
+<img src="assets/glintt-next-dataai-banner.png" alt="Glintt Next - Data and AI" width="620" />
 
 <br/>
 
