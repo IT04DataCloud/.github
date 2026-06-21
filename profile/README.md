@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="assets/glintt-next-dataai-banner.png" alt="Glintt Next - Data and AI" width="620" />
+<img src="assets/glintt-next-dataai-banner.svg" alt="Glintt Next - Data and AI" width="620" />
 
 <br/>
 
