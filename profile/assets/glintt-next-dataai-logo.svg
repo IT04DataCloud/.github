@@ -1,0 +1,25 @@
+<svg width="920" height="300" viewBox="0 0 920 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Glintt Next - Data and AI">
+  <defs>
+    <linearGradient id="gnGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cbb6de"/>
+      <stop offset="0.5" stop-color="#aa8cc2"/>
+      <stop offset="1" stop-color="#7c5fa0"/>
+    </linearGradient>
+    <pattern id="gnStripes" width="8" height="11" patternUnits="userSpaceOnUse">
+      <rect width="8" height="7" fill="#fff"/>
+    </pattern>
+    <mask id="gnMask">
+      <rect width="920" height="300" fill="url(#gnStripes)"/>
+    </mask>
+  </defs>
+
+  <g mask="url(#gnMask)">
+    <text x="50" y="135" font-family="Arial, Helvetica, sans-serif" font-weight="800"
+          font-size="108" letter-spacing="1" fill="url(#gnGrad)">GLINTT NEXT</text>
+  </g>
+
+  <rect x="52" y="165" width="640" height="7" rx="3.5" fill="url(#gnGrad)"/>
+
+  <text x="54" y="232" font-family="Arial, Helvetica, sans-serif" font-weight="700"
+        font-size="50" letter-spacing="16" fill="url(#gnGrad)">DATA &amp; AI</text>
+</svg>

@@ -1,0 +1,32 @@
+name: Bug report
+description: Something is broken
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+        3. …
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "repo, branch, OS, runtime version"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / traceback
+      description: Paste relevant logs. **Redact secrets.**
+      render: shell
