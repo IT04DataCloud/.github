@@ -1,4 +1,4 @@
-## What and why
+## What and Why? Brief Summary
 
 <!-- What does this change and why? Link the issue: Closes #___ -->
 
@@ -13,11 +13,11 @@
 
 ## Checklist
 
-- [ ] Branch named `<type>/<description>` and based on `main`
-- [ ] Tests added or updated and passing locally
+- [ ] Branch named from issue and based on `dev` branch
+- [ ] If Tests added, then updated tests and passing locally
 - [ ] No secrets, `.env` files, or large binaries committed
-- [ ] Registry updated, if this is a new repository or a status change
 - [ ] Self-reviewed the diff
+- [ ] Linting and CI checks all pass locally
 
 ## Notes for reviewers
 
